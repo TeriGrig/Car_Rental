@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\terez\\source\\repos\\Car Rental\\",
+  "WorkspaceRootPath": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\models\\renter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\models\\renter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\renter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\pkele\\desktop\\uni\\6th_semester\\software_engineering\\car_rental\\car rental\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,54 +50,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "Car Rental\\Models\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\Vehicle.cs",
-              "RelativeToolTip": "Car Rental\\Models\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Car Rental\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Booking.cs",
+              "RelativeToolTip": "Car Rental\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T13:06:19.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T13:18:18.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Car Rental\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Car Rental\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:06:19.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Car Rental\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Car Rental\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T12:35:25.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Renter.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\Renter.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Renter.cs",
               "RelativeDocumentMoniker": "Car Rental\\Models\\Renter.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\Renter.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Renter.cs",
               "RelativeToolTip": "Car Rental\\Models\\Renter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:31:56.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T12:31:56.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Car Rental\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Car Rental\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -101,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\User.cs",
               "RelativeDocumentMoniker": "Car Rental\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\User.cs",
               "RelativeToolTip": "Car Rental\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,50 +127,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-19T16:53:09.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T16:53:09.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Car Rental\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAIAwwFAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T16:53:19.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T16:53:19.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Owner.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\Owner.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Owner.cs",
               "RelativeDocumentMoniker": "Car Rental\\Models\\Owner.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Models\\Owner.cs*",
-              "RelativeToolTip": "Car Rental\\Models\\Owner.cs*",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Models\\Owner.cs",
+              "RelativeToolTip": "Car Rental\\Models\\Owner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T12:34:49.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T12:34:49.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Program.cs",
               "RelativeDocumentMoniker": "Car Rental\\Program.cs",
-              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Program.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Program.cs",
               "RelativeToolTip": "Car Rental\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -17,8 +17,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
-build_property.RootNamespace = Car_Rental
-build_property.RootNamespace = Car_Rental
+build_property.RootNamespace = Car Rental
+build_property.RootNamespace = Car Rental
 build_property.ProjectDir = C:\Users\pkele\Desktop\UNI\6th_semester\Software_engineering\Car_Rental\Car Rental\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
@@ -202,6 +202,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/pkele/Desktop/UNI/6th_semester/Software_engineering/Car_Rental/Car Rental/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pkele/Desktop/UNI/6th_semester/Software_engineering/Car_Rental/Car Rental/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -217,7 +221,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/pkele/Desktop/UNI/6th_semester/Software_engineering/Car_Rental/Car Rental/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/pkele/Desktop/UNI/6th_semester/Software_engineering/Car_Rental/Car Rental/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-6qgpl5ole6

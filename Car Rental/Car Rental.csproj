@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-Car_Rental-15c58283-4cf6-4a2f-85dd-582d22919db7</UserSecretsId>
-    <RootNamespace>Car_Rental</RootNamespace>
+    <RootNamespace>Car Rental</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
