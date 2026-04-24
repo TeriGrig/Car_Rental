@@ -35,13 +35,13 @@ namespace Car_Rental.Data
                 .HasOne(b => b.Vehicle)
                 .WithMany()
                 .HasForeignKey(b => b.VehicleId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.NoAction);
 
             modelBuilder.Entity<Booking>()
                 .HasOne(b => b.Renter)
                 .WithMany()
                 .HasForeignKey(b => b.RenterId)
-                .OnDelete(DeleteBehavior.Restrict); 
+                .OnDelete(DeleteBehavior.NoAction); 
 
             modelBuilder.Entity<Vehicle>()
                 .HasOne(v => v.Owner)

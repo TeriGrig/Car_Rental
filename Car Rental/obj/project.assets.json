@@ -6392,23 +6392,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\terez\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\micha\\.nuget\\packages\\": {},
+>>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Car Rental.csproj",
       "projectName": "Car Rental",
       "projectPath": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Car Rental.csproj",
       "packagesPath": "C:\\Users\\terez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Car Rental.csproj",
+      "projectName": "Car Rental",
+      "projectPath": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Car Rental.csproj",
+      "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\obj\\",
+>>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\terez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6417,6 +6433,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
