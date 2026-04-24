@@ -1,5 +1,9 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\",
+  "Documents": [],
+=======
   "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\",
   "Documents": [
     {
@@ -11,10 +15,14 @@
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+>>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -52,6 +60,7 @@
           ]
         }
       ]
+>>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
     }
   ]
 }
