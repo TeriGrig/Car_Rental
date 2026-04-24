@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Car Rental.csproj": {}
+    "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Car Rental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Car Rental.csproj": {
+    "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Car Rental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Car Rental.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Car Rental.csproj",
         "projectName": "Car Rental",
-        "projectPath": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\Car Rental.csproj",
-        "packagesPath": "C:\\Users\\pkele\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\Car Rental\\obj\\",
+        "projectPath": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Car Rental.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pkele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
