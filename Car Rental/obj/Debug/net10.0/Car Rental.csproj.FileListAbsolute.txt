@@ -1203,3 +1203,4 @@ C:\Users\micha\Desktop\Car_Rental\Car_Rental\Car Rental\obj\Debug\net10.0\refint
 C:\Users\micha\Desktop\Car_Rental\Car_Rental\Car Rental\obj\Debug\net10.0\Car Rental.pdb
 C:\Users\micha\Desktop\Car_Rental\Car_Rental\Car Rental\obj\Debug\net10.0\Car Rental.genruntimeconfig.cache
 C:\Users\micha\Desktop\Car_Rental\Car_Rental\Car Rental\obj\Debug\net10.0\ref\Car Rental.dll
+C:\Users\terez\source\repos\Car Rental\Car Rental\obj\Debug\net10.0\Car Rental.csproj.AssemblyReference.cache

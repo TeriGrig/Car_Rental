@@ -1,66 +1,228 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\pkele\\Desktop\\UNI\\6th_semester\\Software_engineering\\Car_Rental\\",
-  "Documents": [],
-=======
-  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\",
+  "WorkspaceRootPath": "C:\\Users\\terez\\source\\repos\\Car Rental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\micha\\desktop\\car_rental\\car_rental\\car rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\terez\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd0a1f8b61f909f97a57d5355fd89da39f409981cacba45c3886658c2434da1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\terez\\AppData\\Local\\SourceServer\\fd5b525904fc4c843aecdf3aca09a0023076c1dfc286219e27a5704a498f5252\\Car Rental\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\micha\\desktop\\car_rental\\car_rental\\car rental\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\data\\migrations\\20260422133836_fixbookingcascadepaths.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\data\\migrations\\20260422133836_fixbookingcascadepaths.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\data\\migrations\\20260422133836_fixbookingcascadepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\data\\migrations\\20260422133836_fixbookingcascadepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|c:\\users\\terez\\source\\repos\\car rental\\car rental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E6B9209-612C-4782-BEF7-B47C92A3AE20}|Car Rental\\Car Rental.csproj|solutionrelative:car rental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
->>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
-      "DocumentGroups": []
-=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Car Rental\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Car Rental\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCsAAAAxAAAAAAAAAA==",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Car Rental\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Car Rental\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T12:47:01.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terez\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd0a1f8b61f909f97a57d5355fd89da39f409981cacba45c3886658c2434da1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd0a1f8b61f909f97a57d5355fd89da39f409981cacba45c3886658c2434da1\\Program.cs",
+              "ToolTip": "C:\\Users\\terez\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd0a1f8b61f909f97a57d5355fd89da39f409981cacba45c3886658c2434da1\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd0a1f8b61f909f97a57d5355fd89da39f409981cacba45c3886658c2434da1\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T11:35:32.875Z"
+              "WhenOpened": "2026-04-24T12:44:12.607Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD1RwIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-24T12:39:27.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Car Rental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABY5gIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-24T12:39:16.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260422133836_FixBookingCascadePaths.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.Designer.cs",
+              "RelativeDocumentMoniker": "Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.Designer.cs",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.Designer.cs",
+              "RelativeToolTip": "Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:39:13.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\appsettings.json",
-              "RelativeDocumentMoniker": "Car Rental\\appsettings.json",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Car_Rental\\Car_Rental\\Car Rental\\appsettings.json",
-              "RelativeToolTip": "Car Rental\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-24T10:54:55.147Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Program.cs",
+              "RelativeDocumentMoniker": "Car Rental\\Program.cs",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Program.cs",
+              "RelativeToolTip": "Car Rental\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:30:13.08Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Car Rental\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Car Rental\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T12:47:08.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260422133836_FixBookingCascadePaths.cs",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.cs",
+              "RelativeDocumentMoniker": "Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.cs",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.cs",
+              "RelativeToolTip": "Car Rental\\Data\\Migrations\\20260422133836_FixBookingCascadePaths.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:39:02.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\appsettings.json",
+              "RelativeDocumentMoniker": "Car Rental\\appsettings.json",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\appsettings.json",
+              "RelativeToolTip": "Car Rental\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T12:40:41.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terez\\AppData\\Local\\SourceServer\\fd5b525904fc4c843aecdf3aca09a0023076c1dfc286219e27a5704a498f5252\\Car Rental\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\fd5b525904fc4c843aecdf3aca09a0023076c1dfc286219e27a5704a498f5252\\Car Rental\\Program.cs",
+              "ToolTip": "C:\\Users\\terez\\AppData\\Local\\SourceServer\\fd5b525904fc4c843aecdf3aca09a0023076c1dfc286219e27a5704a498f5252\\Car Rental\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\fd5b525904fc4c843aecdf3aca09a0023076c1dfc286219e27a5704a498f5252\\Car Rental\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:36:30.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Car Rental\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Car Rental\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T12:32:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Car Rental\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Car Rental\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T12:29:45.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Car Rental\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\terez\\source\\repos\\Car Rental\\Car Rental\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Car Rental\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-24T12:29:02.382Z"
             }
           ]
         }
       ]
->>>>>>> 0e51b8bda9c6d888957db6c78c6a31fe6dd8eb9e
     }
   ]
 }
